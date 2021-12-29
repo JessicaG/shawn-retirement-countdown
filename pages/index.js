@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Shawn's page!" />
-        <img src="https://avatars.githubusercontent.com/u/12153226?v=4">
+        <img src="https://avatars.githubusercontent.com/u/12153226?v=4" alt="shawn-mug">
         <p className="description">
          <script src="https://apps.elfsight.com/p/platform.js" defer></script>
          <div class="elfsight-app-7d29a667-4e41-4726-b0dc-419cff577c8e"></div>
